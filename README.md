@@ -1,0 +1,2 @@
+# house-price-prediction
+Here's a concise version under 350 characters:  > A machine learning-powered Shiny app for predicting house prices using a tuned XGBoost model. Users input property features to receive real-time sale price predictions. Built with R, caret, and xgboost. Deployed on shinyapps.io.
