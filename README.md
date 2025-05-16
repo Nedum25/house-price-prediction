@@ -22,5 +22,5 @@ A machine learning-powered Shiny app for predicting house prices using a tuned X
 - `tuned_xgb_model.rds` - Trained XGBoost model
 
 ## ✨ Author
-Chinedu | [LinkedIn](www.linkedin.com/in/chinedu-uzim)
+Chinedu Uzim| [LinkedIn](www.linkedin.com/in/chinedu-uzim)
 
